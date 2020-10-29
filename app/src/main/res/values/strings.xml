@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SunnyWeather</string>
+    <string name="srdz">输入地址</string>
+    <string name="yb">预报</string>
+    <string name="gm">感冒</string>
+    <string name="cy">穿衣</string>
+    <string name="sszwx">实时紫外线</string>
+    <string name="xc">洗车</string>
+    <string name="wfhq">无法成功获取天气信息</string>
+    <string name="wncx">未能查询到任何地点</string>
+    <string name="shzs">生活指数</string>
+</resources>
